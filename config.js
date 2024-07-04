@@ -9,16 +9,16 @@ global.setting = {
  }
 
 global.owner = [
-['212717457920', 'Nour', true],
-['212605784394', 'imillie', false],
-['212693227969', '8bal', false]
+['212681951915', 'Nour', true],
+['212681951915', 'imillie', false],
+['212681951915', '8bal', false]
 ]
 
 global.info = {
- nomerbot: '212605784394',
- pairingNumber: '212693227969',
+ nomerbot: '212601742616',
+ pairingNumber: '212681951915',
  nameown: 'Nour',
- nomerown: '212717457920',
+ nomerown: '212681951915',
  packname: 'sticker by ',
  author: 'Noureddine',
  namebot: 'ꜱɪʟᴀɴᴀ',
@@ -46,15 +46,15 @@ global.url = {
 
 // Sosmed
 global.url = {
- sig: 'https://instagram.com/noureddine_ouafy',
- sgh:  'https://github.com/noureddineouafy',
- sgc: 'https://chat.whatsapp.com/DABxracGsi5CQMd5d1N1j7'
+ sig: 'https://instagram.com/alinafis0',
+ sgh:  'https://github.com/Alinafis21',
+ sgc: 'https://chat.whatsapp.com/DABxracGsi5CQMd5d1N'
 }
 
 // Info Wait
 global.msg = {
  wait: '⏱️ *Please be patient*\n\> Running command from *User*!',
- eror: '🤖*Bot Information*\n\> Sorry for the inconvenience in using *Bobiza Bot*. There was an error in the system while executing the command.'
+ eror: '🤖*Bot Information*\n\> Sorry for the inconvenience in using *Bobi Bot*. There was an error in the system while executing the command.'
 }
 
 global.multiplier = 69
